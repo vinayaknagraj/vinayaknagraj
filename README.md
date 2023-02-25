@@ -11,6 +11,22 @@
 
 - ⚡ Fun fact **I think I am funny. Wait I am funny!**
 
+About Me- 
+
+# Work Experience-
+
+**Product Intern @ Hallparty (Jan 2022- May** **2022)**
+
+I  worked as a Product Intern at Hallparty. I take care of all analytics stuff. I spend most of the time on Mixpanel by tracking user behaviour.  I co-ordinate with the Dev as well as Operations team. In simple language, you can say that all the analytics stuff at Hallparty is taken care of by me. I directly report to the CEO(Rahul Chhabra).
+
+Website- [https://www.hallparty.app/](https://www.hallparty.app/)
+
+**Co-Founder & CEO @ Stive (Sept 2021-Oct 2021)**
+
+Co-founded a live streaming platform for creators. Selected for [Thiel Fellowship **Interview Round**(Results yet to be announced-Proof)](https://drive.google.com/file/d/1Jiw0-R5GFatq1lfg8p5-DYtVc1XnqHHI/view?usp=share_link). We believe that creators shall have the power to monetize their content. Live streaming platforms like Twitch, Instagram Live and YouTube Live pay streamers on number of views and not content. That is what we wanted to change. Stive gives the power to creators to decide how much each user pays them to watch their live video. 
+
+Website- [https://stivelive.herokuapp.com/home](https://stivelive.herokuapp.com/home)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vinu_nagraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinu_nagraj" height="30" width="40" /></a>
