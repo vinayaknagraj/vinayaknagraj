@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi Hackers 🚀
 
-<h1 align="center">Hi 👋, I'm Vinayak Nagaraj</h1>
+<h1 align="center">Yo! 🥂, I'm Vinayak Nagaraj</h1>
 <h3 align="center">A passionate Swift developer from India</h3>
 
+<img src= 
+     "https://media.geeksforgeeks.org/wp-content/uploads/hacker.png" alt="GeeksforGeeks logo" align="center">
+     <br>
+     <br>
+     
 - 👨‍💻 All of my projects are available at [pickle-ball-98c.notion.site/About-Me-Vinay…](pickle-ball-98c.notion.site/About-Me-Vinay…)
 
 - 📫 How to reach me Twitter **https://twitter.com/Vinu_nagaraj**
