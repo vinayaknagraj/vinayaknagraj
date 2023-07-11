@@ -30,19 +30,19 @@ Raised over $35Mn from Blume Ventures, DSG Consumer Partners, Artha Ventures, To
 
 Our Series B in March 2022 is valued at $120Mn. We are 1200+ people, based out of Delhi, London, Sydney, Toronto, and Lagos.
 
-Website- [((https://leverageedu.com/)] 
+Website- [(https://leverageedu.com/] 
 
 **Builder @ Buildspace (March 2023- May** **2023)**
 
 Buildspace is a school where you can take any idea you’re excited about, figure out how to bring it to life and turn it into something that people give a shit about. Backed by a16z and YC. Building cool stuff with cool people. Got selected out of 6000 applicants.
 
-Website- [(https://buildspace.so/)] 
+Website- [https://buildspace.so/] 
 
 **SDE Intern @ SkyHi (March 2023- April** **2023)**
 
 SkyHi is World's first AR and 3D map-based NFT Marketplace. They provide an interactive explorable experience for people to collect, buy, and flex NFTs in AR and Geotag. I was responsible to build their entire app on Swift. Single-handedly shipped the MVP. Used Mapkit, UIKit, CoreLocation, and Swift. 
 
-Website- [(https://skyhi.live/)]
+Website- [https://skyhi.live/]
 
 **Product Intern @ Hallparty (Jan 2022- May** **2022)**
 
